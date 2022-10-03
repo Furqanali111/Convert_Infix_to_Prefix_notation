@@ -3,11 +3,6 @@
 
 # In[1]:
 
-
-# furqan ali
-# 200901073
-# BS-CS-01-B
-
 from collections import deque
 
 
