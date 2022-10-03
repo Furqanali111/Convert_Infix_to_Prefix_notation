@@ -89,7 +89,7 @@ class Stack:
 
 # main function starts here
 stack = Stack()
-expression = input('Enter Expression: ')
+expression = input('Enter Infix Expression: ')
 rev = []
 rev = stack.reverse(expression)
 result = stack.Prefix(rev)
